@@ -14,12 +14,7 @@ sections:
     section_id: about
     content: |
       Brief explanation about the program and how it works.
-    actions:
-      - type: action
-        template: action
-        label: Contact US
-        url: /contact
-        style: button
+    actions: []
   - type: section_posts
     template: section_posts
     title: SPOTLIGHT
