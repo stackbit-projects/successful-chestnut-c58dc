@@ -22,7 +22,7 @@ sections:
         style: button
   - type: section_posts
     template: section_posts
-    title: Recent Posts
+    title: SPOTLIGHT
     section_id: recent-posts
     posts_number: 4
     actions:
