@@ -21,7 +21,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Contact Me
+        label: Contact US
         url: /contact
         style: button
   - type: section_posts
