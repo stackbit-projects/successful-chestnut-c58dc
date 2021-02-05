@@ -7,7 +7,7 @@ params:
   header:
     type: header
     template: header
-    title: Stackbit Fresh
+    title: HCCC Tutor Center
     tagline: Header Tagline
     profile_img: /images/seal2.jpg
     profile_img_alt: Author avatar
