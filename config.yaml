@@ -11,7 +11,7 @@ params:
     tagline: STEM Division
     profile_img: /images/seal2.jpg
     profile_img_alt: Author avatar
-    background: dark
+    background: light
     has_nav: true
     nav_links:
       - type: action
