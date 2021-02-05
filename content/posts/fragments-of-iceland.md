@@ -4,7 +4,7 @@ date: '2019-04-15'
 thumb_img_path: /images/math.jpg
 thumb_img_alt: Math Tutor
 content_img_path: /images/math.jpg
-content_img_alt: Icelandic horses
+content_img_alt: Math Tutor
 excerpt: ''
 layout: post
 subtitle: ''
