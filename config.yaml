@@ -21,7 +21,7 @@ params:
         style: link
       - type: action
         template: action
-        label: Blog
+        label: Schedule
         url: /blog/
         style: link
       - type: action
