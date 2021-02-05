@@ -7,7 +7,7 @@ content_img_path: /images/math.jpg
 content_img_alt: Math Tutor
 excerpt: ''
 layout: post
-subtitle: ''
+subtitle: 'Tutor:'
 ---
 
 Photo by [Anders Jildén](https://unsplash.com/photos/uO4Au3LrCtk)
