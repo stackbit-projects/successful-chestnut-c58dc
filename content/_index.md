@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: section_hero
     template: section_hero
-    title: HCCC STEM Tutors
+    title: HCCC Tutor Center
     section_id: hero
     content: |
       Tagline goes here. Can be a slogan from HCCC.
