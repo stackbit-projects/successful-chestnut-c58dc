@@ -5,7 +5,7 @@ thumb_img_path: /images/math.jpg
 thumb_img_alt: Math Tutor
 content_img_path: /images/math.jpg
 content_img_alt: Math Tutor
-excerpt: 'Tutor: '
+excerpt: 'Tutor: John Doe'
 layout: post
 subtitle: ''
 ---
