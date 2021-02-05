@@ -26,7 +26,7 @@ params:
         style: link
       - type: action
         template: action
-        label: ''
+        label: FAQ
         url: /style-guide/
         style: link
       - type: action
