@@ -1,5 +1,5 @@
 ---
-title: Fragments of Iceland
+title: Math
 date: '2019-03-27'
 thumb_img_path: /images/math.jpg
 thumb_img_alt: Icelandic horses
