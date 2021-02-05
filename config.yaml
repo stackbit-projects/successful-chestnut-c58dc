@@ -8,7 +8,7 @@ params:
     type: header
     template: header
     title: HCCC Tutor Center
-    tagline: Header Tagline
+    tagline: STEM Division
     profile_img: /images/seal2.jpg
     profile_img_alt: Author avatar
     background: dark
