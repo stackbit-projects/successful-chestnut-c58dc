@@ -9,7 +9,7 @@ params:
     template: header
     title: Stackbit Fresh
     tagline: Header Tagline
-    profile_img: /images/seal.png
+    profile_img: /images/seal2.jpg
     profile_img_alt: Author avatar
     background: dark
     has_nav: true
