@@ -1,6 +1,6 @@
 ---
 title: Math
-date: '2019-04-17'
+date: '2019-04-15'
 thumb_img_path: /images/math.jpg
 thumb_img_alt: Icelandic horses
 content_img_path: images/7.jpg
